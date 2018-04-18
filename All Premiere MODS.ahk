@@ -3,7 +3,7 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
-
+;----------------------This single mod is fron TaranVH--------------------------
 ;---------------------______________PREMIERE MOD - Right click timeline to move playhead MOD_________________-----------------
 
 #SingleInstance force ; only 1 instance of this script may run at a time.
@@ -118,6 +118,8 @@ Return
 ; }
 ; Return
 
+;--------------------End of Taran MODS----------------------------
+
 
 ;----------------------------------Single Click Effects Bar find Box------------------------------------------------
 
@@ -131,7 +133,7 @@ Send ^!f
 Return
 }
 
-
+;=============A lot of help from TaranVH=========================
 ;========================================Apply any Transtion==============================================
 
 ;Apply ANY transition to a clip -- sadly you cannot use this to SAVE a CUSTOM transition
